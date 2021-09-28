@@ -1,4 +1,4 @@
-# TP 3
+# TP 3 Laysa Amara TD4
 
 A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:
 
@@ -14,7 +14,7 @@ A lire impérativement avant de commencer quoi que ce soit, ce sont les règles 
 Le bouton se sert donc plus à rien, il faut l'enlever.
 *Hint: Voir la propriété onload.*
 
-3. Par défault la ville choisi pour les prédictions météo est Paris. Faire en sorte que votre user puisse rentrer le nom d'une ville dans l'input. Lorsqu'il appuit sur **Actualiser** cela actualise les informations avec la bonne ville. Il faut donc faire une requete différente.
+3. Par défault la ville choisie pour les prédictions météo est Paris. Faire en sorte que votre user puisse rentrer le nom d'une ville dans l'input. Lorsqu'il appuit sur **Actualiser** cela actualise les informations avec la bonne ville. Il faut donc faire une requete différente.
 *Hint: [Comment récupérer la valeur d'un input](https://stackoverflow.com/questions/11563638/how-do-i-get-the-value-of-text-input-field-using-javascript)*
 
 4. Chercher les prévisions météo pour les trois jours à venir.
